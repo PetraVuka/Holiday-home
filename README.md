@@ -24,9 +24,9 @@ Glavna tema projekta je kalendar, koji korisnicima pojednostavljuje rezerviranje
 
 
 ## Korišteni alati
-HTML
-CSS
-JavaScript
-NodeJS
-Express
-MongoDB
+1. HTML
+2. CSS
+3. JavaScript
+4. NodeJS
+5. Express
+6. MongoDB
