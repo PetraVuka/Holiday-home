@@ -1,4 +1,4 @@
-# Holiday-home Bulue Haven
+# Holiday-home Blue Haven
 
 
 
